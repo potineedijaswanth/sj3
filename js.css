@@ -1,0 +1,19 @@
+body {
+    background-image: linear-gradient(skyblue,lightgreen,green);
+}
+div{
+    margin-top: 250px;
+}
+button{
+    padding:15px;
+    background-color: rgb(2, 18, 3);
+    color: bisque;
+}
+input{
+    padding: 20px;
+    background-color: black;
+}
+h1{
+    color: rgb(1, 16, 39);
+    
+}
